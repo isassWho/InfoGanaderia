@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Info Ganaderia</string>
+
+    <string name="btn_iniciar_pantalla">Iniciar Sesión</string>
+    <string name="btn_registar_pantalla">Registrarse</string>
+
+    <!-- Hints -->
+    <string name="hint_ingresa_nombre">Ingresa tu nombre</string>
+    <string name="hint_ingresa_correo">Ingresa tu correo</string>
+    <string name="hint_ingresa_contrasena">Ingresa tu contraseña</string>
+    <string name="hint_ingresa_contrasena_confirmacion">Confirma tu contraseña</string>
+
+
+    <!-- Buttons -->
+    <string name="btn_iniciar_sesion">Iniciar Sesión</string>
+    <string name="btn_registrarse">Registrarse</string>
+
+</resources>
